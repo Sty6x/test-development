@@ -1,2 +1,2 @@
-# test-development
-Repository for testing out different functionalities, css animations, and other stuff for testing
+# def-development-environment-webpack
+Repository for pulling my default configs on webpack

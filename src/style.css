@@ -55,17 +55,4 @@ main{
   height: 100%;
   width: 100%;
   flex-direction: column;
-  background-color: red;
-}
-form{
-
-  display: flex;  
-  flex-direction: column;
-  box-sizing: border-box;
-  gap: 15px;
-}
-
-canvas{
-  width: 300px;
-  height: 400px;
 }
